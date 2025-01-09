@@ -1,4 +1,3 @@
-# spotyify-website
 # Spotify Clone Website 🎵
 
 This project is a web application that mimics Spotify's features and functionality. It allows users to browse music, view artists, albums, and playlists, and includes dynamic user interaction. Built with Angular for the frontend, Node.js for the backend, and MySQL for the database.
@@ -16,9 +15,7 @@ This project is a web application that mimics Spotify's features and functionali
 -   **Backend**: Node.js
 -   **Database**: MySQL
 
-# Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 
 ![img1](/images/img1.png)
